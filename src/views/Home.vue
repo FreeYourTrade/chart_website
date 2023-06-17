@@ -14,7 +14,7 @@
 						进入图表
 					</button>
 				</div>
-				<img src="../assets/imgs/trade.png">
+				<img src="../assets/imgs/line.jpg">
 			</div>
 		    <div>
 				<div class="sub-card">
@@ -138,7 +138,6 @@ a {
 
 .container .topTips > img {
 	width: 40vw;
-	height: 30vw;
 	max-width: 512px;
 	object-fit: contain;
 }

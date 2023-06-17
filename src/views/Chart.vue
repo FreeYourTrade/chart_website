@@ -11,7 +11,6 @@
 <script>
 import Navigation from "../components/Navigation.vue";
 import Clipboard from "clipboard";
-import { ethers } from "ethers";
 export default {
   name: "ChartPage",
   components: {
